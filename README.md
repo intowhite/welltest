@@ -1,3 +1,5 @@
+In terminal:
+
 - Enter directory
 ### `cd welltest-master`
 
